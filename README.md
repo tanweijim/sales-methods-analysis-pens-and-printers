@@ -24,3 +24,8 @@ Pens and Printers was founded in 1984 and provides high quality office products 
  called a week later by the sales team to talk about their needs and how this new product
  may support their work. The email required little work from the team, the call was around ten
  minutes per customer.
+
+ # Analysis
+- Evaluate the effectiveness of the different sales methods
+- Identify strategies to optimize team efforts and maximize revenue
+- Provide actionable recommendations to enhance sales performance
