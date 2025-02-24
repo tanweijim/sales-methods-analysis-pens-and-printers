@@ -1,2 +1,2 @@
-# sales-methods-analysis-pens-and-printers
+# About
 Sales methods analysis for pens and printers
